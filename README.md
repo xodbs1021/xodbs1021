@@ -1,7 +1,7 @@
 <img src="./assets/header.svg" width="100%" alt="Tae-yun Kim — Backend, media infrastructure and open source" />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/%ED%83%9C%EC%9C%A4-%EA%B9%80-851a02304/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/tae-yun-kim-851a02304/">LinkedIn</a>
   &nbsp; / &nbsp;
   <a href="https://github.com/3K-PokeClip/PokeClip-mono">PokeClip</a>
   &nbsp; / &nbsp;
