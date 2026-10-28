@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Tae-yun Kim</title><desc id="desc">Backend, media infrastructure and open source</desc>
+<rect width="1200" height="300" rx="18" fill="#152C4A"/>
+<path d="M790 0V300M850 0V300M910 0V300M970 0V300M1030 0V300M1090 0V300M1150 0V300M760 60H1200M760 120H1200M760 180H1200M760 240H1200" stroke="#29435F" stroke-width="1"/>
+<g fill="#83BCC8">
+<rect x="802" y="130" width="10" height="40" rx="5"/><rect x="826" y="114" width="10" height="72" rx="5"/><rect x="850" y="91" width="10" height="118" rx="5"/><rect x="874" y="65" width="10" height="170" rx="5"/><rect x="898" y="107" width="10" height="86" rx="5"/><rect x="922" y="126" width="10" height="48" rx="5"/><rect x="946" y="87" width="10" height="126" rx="5"/><rect x="970" y="47" width="10" height="206" rx="5"/><rect x="994" y="76" width="10" height="148" rx="5"/><rect x="1018" y="112" width="10" height="76" rx="5"/><rect x="1042" y="130" width="10" height="40" rx="5"/><rect x="1066" y="106" width="10" height="88" rx="5"/><rect x="1090" y="121" width="10" height="58" rx="5"/>
+</g>
+<rect x="970" y="47" width="10" height="206" rx="5" fill="#F4A88B"/>
+<g font-family="'Segoe UI',Helvetica,Arial,sans-serif">
+<text x="62" y="116" fill="#F4F7FB" font-size="55" font-weight="700" letter-spacing="-1.5">Tae-yun Kim</text>
+<text x="65" y="166" fill="#BDCFDF" font-size="24">Backend &amp; media infrastructure</text>
+<text x="65" y="228" fill="#83BCC8" font-size="18">Streaming systems. Clear contracts. Reproducible checks.</text>
+</g></svg>
