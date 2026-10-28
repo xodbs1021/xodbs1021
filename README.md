@@ -1,6 +1,8 @@
 <img src="./assets/header.svg" width="100%" alt="Tae-yun Kim — Backend, media infrastructure and open source" />
 
 <p align="center">
+  <a href="https://xodbs1021.github.io/">Blog</a>
+  &nbsp; / &nbsp;
   <a href="https://www.linkedin.com/in/tae-yun-kim-851a02304/">LinkedIn</a>
   &nbsp; / &nbsp;
   <a href="https://github.com/3K-PokeClip/PokeClip-mono">PokeClip</a>
@@ -39,6 +41,14 @@ I'm the team lead for **PokeClip**, a three-person project in the AI·SW Maestro
 - [#6182](https://github.com/bluenviron/mediamtx/pull/6182) — Continued an existing contributor's patch for disabling offline-source recording, and addressed source/configuration reapplication.
 
 </details>
+
+### Engineering notes
+
+I write about design choices, failure cases, and verification limits in my [engineering notes](https://xodbs1021.github.io/posts/0-to-1/portfolio-engineering-notes/) (in Korean).
+
+- [Choosing MediaMTX over building a media server](https://xodbs1021.github.io/posts/0-to-1/pokeclip-mediamtx-build-or-adopt/)
+- [Recovering file registration when events are lost](https://xodbs1021.github.io/posts/0-to-1/pokeclip-indexer-recovery-without-events/)
+- [CDN caching and access-control measurements](https://xodbs1021.github.io/posts/0-to-1/pokeclip-cdn-cache-auth-measurement/)
 
 ### Tools & interests
 
