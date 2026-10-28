@@ -1,7 +1,7 @@
 <img src="./assets/header.svg" width="100%" alt="Tae-yun Kim — Backend, media infrastructure and open source" />
 
 <p align="center">
-  <a href="https://xodbs1021.github.io/">Blog</a>
+  <a href="https://taeyun.blog/">Blog</a>
   &nbsp; / &nbsp;
   <a href="https://www.linkedin.com/in/tae-yun-kim-851a02304/">LinkedIn</a>
   &nbsp; / &nbsp;
@@ -37,11 +37,11 @@ I'm the team lead for **PokeClip**, a three-person project in the AI·SW Maestro
 
 ### Engineering notes
 
-I write about design choices, failure cases, and verification limits in my [engineering notes](https://xodbs1021.github.io/posts/0-to-1/portfolio-engineering-notes/) (in Korean).
+I write about design choices, failure cases, and verification limits in my [engineering notes](https://taeyun.blog/posts/0-to-1/portfolio-engineering-notes/) (in Korean).
 
-- [Choosing MediaMTX over building a media server](https://xodbs1021.github.io/posts/0-to-1/pokeclip-mediamtx-build-or-adopt/)
-- [Recovering file registration when events are lost](https://xodbs1021.github.io/posts/0-to-1/pokeclip-indexer-recovery-without-events/)
-- [CDN caching and access-control measurements](https://xodbs1021.github.io/posts/0-to-1/pokeclip-cdn-cache-auth-measurement/)
+- [Choosing MediaMTX over building a media server](https://taeyun.blog/posts/0-to-1/pokeclip-mediamtx-build-or-adopt/)
+- [Recovering file registration when events are lost](https://taeyun.blog/posts/0-to-1/pokeclip-indexer-recovery-without-events/)
+- [CDN caching and access-control measurements](https://taeyun.blog/posts/0-to-1/pokeclip-cdn-cache-auth-measurement/)
 
 ### Tools & interests
 
